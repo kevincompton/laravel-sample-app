@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kevincompton/sites/start.php",
+		"/Users/kevincompton/sites/dfm/wp-content/themes/dfm/footer.php",
+		"/Users/kevincompton/sites/dfm/wp-content/themes/dfm/header.php",
+		"/Users/kevincompton/sites/dfm/wp-content/themes/dfm/style.css",
+		"/Users/kevincompton/sites/dfm/wp-config.php",
+		"/Users/kevincompton/sites/clients/colourpop/wp-content/themes/twentytwelve-child/woocommerce/content-single-product.php",
+		"/Users/kevincompton/sites/clients/colourpop/wp-config.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/taxonomy-product_cat-collabs.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/taxonomy-product_cat-lippie-stix-and-pencils.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/functions.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/single-product/product-image.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/single-product/desktop-thumbs.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/single-product/mobile-thumbs.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/style.css",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/myaccount/form-login.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/page-basic.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/header.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/woocommerce/emails/customer-completed-order.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/js/scripts.js",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/DB00CC85-3EE5-417B-8970-B3851DCBF5D0/style.css",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/footer.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/newsletter-pop.php",
+		"/Users/kevincompton/sites/colourpop/wp-content/themes/twentytwelve-child/page-home.php",
+		"/Users/kevincompton/sites/colourpop/wp-config.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/FC25E2D8-0A7F-4BD8-A103-7D5FC6EB387F/eyeshadows_slider.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/0CDAFC52-F675-484F-B308-602F4DC5CFDB/archive-product.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/024DF0C6-FF9A-45A9-9EA6-32993BF233BF/page-shop.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/1F78745F-41BB-4E33-9B85-8F4DAE96A3C2/content-page.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/B5A4B178-784F-4914-9620-77F40E9BB187/page-shop.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/A93BF6A8-C513-42EA-AB89-296B6DAF7A7D/cart.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/D2B9D61F-16C2-43CF-8769-8754AD151F53/page-home.php",
+		"/Users/kevincompton/Desktop/header.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/D401C91A-5355-4192-9969-40971B101088/wp-config.php",
+		"/Users/kevincompton/Library/Caches/Cleanup At Startup/Transmit/0505F565-EE16-4F1A-824C-43FE2CF0225C/test.html",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/zips.php",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/functions.php",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/woocommerce/cart/cart.php",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/woocommerce/emails/customer-reset-password.php",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/style-copy.css",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/sidebar.php",
+		"/Volumes/On The Spot/thespotgourmet.com/html/wp-content/themes/twentytwelve-child/style.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"55d737"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tradesy.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
