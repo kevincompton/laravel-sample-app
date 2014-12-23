@@ -55,10 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'unix_socket'   => '/Applications/MAMP/tmp/mysql/mysql.sock',
-			'database'  => 'tradesy',
-			'username'  => 'root',
-			'password'  => 'root',
+			'database'  => 'forge',
+			'username'  => 'forge',
+			'password'  => 'MvzRC2SrXXZImkSuio00',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
